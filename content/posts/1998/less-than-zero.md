@@ -8,3 +8,7 @@ featured_image: "/images/1998/less-than-zero.jpg"
 ![Less than zero](/images/1998/less-than-zero.jpg)
 
 Pris de vertige face au vide, on peut reprendre pied dans les turpitudes terre à terre d'une jeunesse désoeuvrée.
+
+Alors que certains s'enorgueillissent des choix qu'ils font, d'autres se débrouillent avec la pauvreté des éléments narratifs que leur vie propose. Il y a un côté absurde à accepter de s'investir dans ces petits riens, et à déplorer l'évanescence du récit qui se dessine.
+
+Comme dans de nombreux romans de Bret Easton Ellis, il y a une distance qui garde un mystère de soi, qui veut sauvegarder la magie de sa propre vie. On peut y voir un désillusion mathématique, action, une appréciation de la simplicité, une livraison d'un soi qui n'attend pas grand chose, et rien en retour, pas d'amour, le vide.

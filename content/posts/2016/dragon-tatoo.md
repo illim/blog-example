@@ -25,6 +25,8 @@ Presque un exercice de foi de décrire des formes abstraites qui s'agitent sous 
 
 La musique esquisse un chemin invisible dont le motif obscur permet de garder les yeux ouverts au delà de la violence d'une réalité illusoire et aride. Rester à l'écoute de ses propres mouvements même les plus discrets, prêt à affronter la violence qui couve, empêche de laisser happer son attention par le vide qui nous engloutit.
 
-Le mouvement tapi dans l'ombre développe une force amputée de la forme, une fleur qui ne peut que pousser dans l'ombre.
+Alors que la musique exprime en général un mouvement, là elle descend où l'on est figé, où l'on doit prendre conscience de notre enlisement pour dans un échantillonement du vide chercher une forme, une fluctation, un signe de vie.
+
+Le mouvement tapi dans l'ombre développe une force amputée de la forme, une fleur qui ne peut que pousser dans l'ombre. Le regard pollué par un expressionisme travestissant un contenu en réalité absent, est nettoyé dans une sorte de négatif de cette réalité traffiquée.
 
 ![millenium](/images/2016/millenium4.jpg)

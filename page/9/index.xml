@@ -9,8 +9,8 @@
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>Entrez dans vos rêves Tristan-&lt;/td>
-&lt;td>Frédéric Moir&lt;/td>
+&lt;td>Entrez dans vos rêves&lt;/td>
+&lt;td>Tristan-Frédéric Moir&lt;/td>
 &lt;td>3&lt;/td>
 &lt;td>2013/08/19&lt;/td>
 &lt;/tr>
@@ -447,7 +447,31 @@
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-- https://illim.github.io/blog-example/posts/2003/livres-2003/ -</description></item><item><title>Livres 2002</title><link>https://illim.github.io/blog-example/posts/2001/livres-2001/</link><pubDate>Tue, 01 Jan 2002 00:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2001/livres-2001/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2001/livres-2001/ -&lt;table>
+- https://illim.github.io/blog-example/posts/2003/livres-2003/ -</description></item><item><title>Livres 2002</title><link>https://illim.github.io/blog-example/posts/2002/livres-2002/</link><pubDate>Tue, 01 Jan 2002 00:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2002/livres-2002/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2002/livres-2002/ -&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Titre&lt;/th>
+&lt;th>Auteur&lt;/th>
+&lt;th>Note&lt;/th>
+&lt;th>Date lue&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Stairways To Hell&lt;/td>
+&lt;td>Thomas Day&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2002/12/01&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Maniac&lt;/td>
+&lt;td>Eric Bénier-Bürckel&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2002/09/01&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+- https://illim.github.io/blog-example/posts/2002/livres-2002/ -</description></item><item><title>Livres 2001</title><link>https://illim.github.io/blog-example/posts/2001/livres-2001/</link><pubDate>Mon, 01 Jan 2001 00:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2001/livres-2001/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2001/livres-2001/ -&lt;table>
 &lt;thead>
 &lt;tr>
 &lt;th>Titre&lt;/th>
@@ -489,31 +513,7 @@
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-- https://illim.github.io/blog-example/posts/2001/livres-2001/ -</description></item><item><title>Livres 2002</title><link>https://illim.github.io/blog-example/posts/2002/livres-2002/</link><pubDate>Tue, 01 Jan 2002 00:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2002/livres-2002/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2002/livres-2002/ -&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Titre&lt;/th>
-&lt;th>Auteur&lt;/th>
-&lt;th>Note&lt;/th>
-&lt;th>Date lue&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Stairways To Hell&lt;/td>
-&lt;td>Thomas Day&lt;/td>
-&lt;td>3&lt;/td>
-&lt;td>2002/12/01&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Maniac&lt;/td>
-&lt;td>Eric Bénier-Bürckel&lt;/td>
-&lt;td>3&lt;/td>
-&lt;td>2002/09/01&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-- https://illim.github.io/blog-example/posts/2002/livres-2002/ -</description></item><item><title>Glamorama</title><link>https://illim.github.io/blog-example/posts/2000/glamorama/</link><pubDate>Sat, 01 Apr 2000 00:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2000/glamorama/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2000/glamorama/ -&lt;p>&lt;p>
+- https://illim.github.io/blog-example/posts/2001/livres-2001/ -</description></item><item><title>Glamorama</title><link>https://illim.github.io/blog-example/posts/2000/glamorama/</link><pubDate>Sat, 01 Apr 2000 00:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2000/glamorama/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2000/glamorama/ -&lt;p>&lt;p>
 &lt;img src="https://illim.github.io/blog-example/blog-example/images/2000/glamorama.jpg" alt="Glamorama" />
 &lt;/p>&lt;/p>
 &lt;p>La solitude face aux images est telle que chacun doit lire un texte pour savoir comment se comporter tout en s&amp;rsquo;extasiant, tout en consommant les moments de façon filmique.&lt;/p>

@@ -1,18 +1,11 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cinétordu on Cinépillage</title><link>https://illim.github.io/blog-example/</link><description>Recent content in Cinétordu on Cinépillage</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0200</lastBuildDate><atom:link href="https://illim.github.io/blog-example/index.xml" rel="self" type="application/rss+xml"/><item><title>Glamorama</title><link>https://illim.github.io/blog-example/posts/2000/glamorama/</link><pubDate>Sat, 01 Apr 2000 00:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2000/glamorama/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2000/glamorama/ -&lt;p>&lt;p>
-&lt;img src="https://illim.github.io/blog-example/blog-example/images/2000/glamorama.jpg" alt="Glamorama" />
-&lt;/p>&lt;/p>
-&lt;p>&lt;em>Si des gens étaient à l&amp;rsquo;origine de la société moderne, comment un simple auteur de fiction les imaginerait il? Ce que j&amp;rsquo;aime bien avec cet auteur, c&amp;rsquo;est qu&amp;rsquo;il s&amp;rsquo;inclut dans le problème et utilise de sa personne pour composer ses figures du mal.
-Dans ce livre, un style de vie peut devenir un produit exportable, un outil de colonisation empaqueté par l&amp;rsquo;oeil d&amp;rsquo;une caméra et estampillé d&amp;rsquo;une touche glamour et cool.&lt;/em>&lt;/p>
-&lt;p>La solitude face aux images est telle que chacun doit lire un texte pour savoir comment se comporter tout en s&amp;rsquo;extasiant, tout en consommant les moments de façon filmique.&lt;/p>
-&lt;p>Les stars peuvent se permettre de diriger l&amp;rsquo;attention sur eux, qui signifie désormais décider ce qui existe, et de réduire l&amp;rsquo;attention sur les autres qui ne sont que le décor et qui n&amp;rsquo;ont pas d&amp;rsquo;importance, restent dans le trivial.&lt;/p>
-&lt;p>Les US symbolisent un enthousiasme enfantin, quand déçu demande une synthèse qui se fera au cours de la traversée, et prépare à l&amp;rsquo;exacerbation des contradictions en Europe, où cet esprit s&amp;rsquo;ancre dans un glamour pour imposer sur des consciences étrangères la manipulation de l&amp;rsquo;attention vers sa propre inanité.&lt;/p>
-- https://illim.github.io/blog-example/posts/2000/glamorama/ -</description></item><item><title>Livres 2000</title><link>https://illim.github.io/blog-example/posts/2000/livres-2000/</link><pubDate>Sat, 01 Jan 2000 00:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2000/livres-2000/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2000/livres-2000/ -&lt;table>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cinétordu on Cinépillage</title><link>https://illim.github.io/blog-example/</link><description>Recent content in Cinétordu on Cinépillage</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Sun, 23 May 2021 13:00:00 +0200</lastBuildDate><atom:link href="https://illim.github.io/blog-example/index.xml" rel="self" type="application/rss+xml"/><item><title>Livres 2000</title><link>https://illim.github.io/blog-example/posts/2000/livres-2000/</link><pubDate>Sat, 01 Jan 2000 00:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2000/livres-2000/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2000/livres-2000/ -&lt;table>
 &lt;thead>
 &lt;tr>
 &lt;th>Titre&lt;/th>
 &lt;th>Auteur&lt;/th>
 &lt;th>Note&lt;/th>
 &lt;th>Date lue&lt;/th>
+&lt;th>commentaire&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
@@ -21,77 +14,90 @@ Dans ce livre, un style de vie peut devenir un produit exportable, un outil de c
 &lt;td>Eric Bénier-Bürckel&lt;/td>
 &lt;td>1&lt;/td>
 &lt;td>2000/08/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Glamorama&lt;/td>
 &lt;td>Bret Easton Ellis&lt;/td>
 &lt;td>4&lt;/td>
 &lt;td>2000/06/01&lt;/td>
+&lt;td>Si des gens étaient à l&amp;rsquo;origine de la société moderne, comment un simple auteur de fiction les imaginerait il? Ce que j&amp;rsquo;aime bien avec cet auteur, c&amp;rsquo;est qu&amp;rsquo;il s&amp;rsquo;inclut dans le problème et utilise de sa personne pour composer ses figures du mal. Dans ce livre, un style de vie peut devenir un produit exportable, un outil de colonisation empaqueté par l&amp;rsquo;oeil d&amp;rsquo;une caméra et estampillé d&amp;rsquo;une touche glamour et cool.&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Mon idée du plaisir&lt;/td>
 &lt;td>Will Self&lt;/td>
 &lt;td>3&lt;/td>
 &lt;td>2000/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Le Festin nu&lt;/td>
 &lt;td>William S. Burroughs&lt;/td>
 &lt;td>2&lt;/td>
 &lt;td>2000/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Les Bébés de la consigne automatique&lt;/td>
 &lt;td>Ryū Murakami&lt;/td>
 &lt;td>1&lt;/td>
 &lt;td>2000/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Clemence Picot&lt;/td>
 &lt;td>Régis Jauffret&lt;/td>
 &lt;td>2&lt;/td>
 &lt;td>2000/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Le Corps Exquis&lt;/td>
 &lt;td>Poppy Z. Brite&lt;/td>
 &lt;td>3&lt;/td>
 &lt;td>2000/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Microserfs&lt;/td>
 &lt;td>Douglas Coupland&lt;/td>
-&lt;td>0&lt;/td>
+&lt;td>&lt;/td>
 &lt;td>2000/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Génération X&lt;/td>
 &lt;td>Douglas Coupland&lt;/td>
-&lt;td>0&lt;/td>
+&lt;td>&lt;/td>
 &lt;td>2000/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Bruit de fond&lt;/td>
 &lt;td>Don DeLillo&lt;/td>
-&lt;td>0&lt;/td>
+&lt;td>&lt;/td>
 &lt;td>2000/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Vente à la criée du lot 49&lt;/td>
 &lt;td>Thomas Pynchon&lt;/td>
 &lt;td>1&lt;/td>
 &lt;td>2000/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>I.G.H.&lt;/td>
 &lt;td>J.G. Ballard&lt;/td>
 &lt;td>3&lt;/td>
 &lt;td>2000/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Dragon rouge&lt;/td>
 &lt;td>Thomas Harris&lt;/td>
 &lt;td>1&lt;/td>
+&lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -99,11 +105,13 @@ Dans ce livre, un style de vie peut devenir un produit exportable, un outil de c
 &lt;td>Dean Koontz&lt;/td>
 &lt;td>1&lt;/td>
 &lt;td>&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Brain Child&lt;/td>
 &lt;td>John Saul&lt;/td>
 &lt;td>2&lt;/td>
+&lt;td>&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -111,14 +119,13 @@ Dans ce livre, un style de vie peut devenir un produit exportable, un outil de c
 &lt;td>Neil Gaiman&lt;/td>
 &lt;td>4&lt;/td>
 &lt;td>&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
 - https://illim.github.io/blog-example/posts/2000/livres-2000/ -</description></item><item><title>American Psycho</title><link>https://illim.github.io/blog-example/posts/1999/american-psycho/</link><pubDate>Mon, 01 Mar 1999 00:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/1999/american-psycho/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/1999/american-psycho/ -&lt;p>&lt;p>
 &lt;img src="https://illim.github.io/blog-example/blog-example/images/1999/american-psycho.jpg" alt="American psycho" />
 &lt;/p>&lt;/p>
-&lt;p>&lt;em>Le narrateur fait preuve d&amp;rsquo;abnégation et de compréhension de l&amp;rsquo;autre (dans sa naïveté) pour conformer son image aux désirs de la société, une caricature shootée à l&amp;rsquo;acide des années 80. Cette image économise l&amp;rsquo;effort de l&amp;rsquo;autre mais l&amp;rsquo;éloigne par la même occasion de son humanité, pour aller dans le sens d&amp;rsquo;une idée toute personnelle du winner, un tueur froid sans émotion.
-J&amp;rsquo;ai ressenti un certain malaise en fermant ce livre. Si la désertion laissant place à des images et des automatismes fait naître un besoin de surenchère chez le narrateur pour éprouver le prolongement de l&amp;rsquo;absurdité jusque dans son désir, peut-être y-a-t-il un danger à s&amp;rsquo;éloigner du terrain, et presqu&amp;rsquo;une complicité à l&amp;rsquo;abandonner définitivement.&lt;/em>&lt;/p>
 &lt;p>Le mythe de l&amp;rsquo;homme performant toujours en action fleurissant dans un environnement à son image.&lt;/p>
 &lt;p>L&amp;rsquo;héritage de la violence à travers une pression sociale quotidienne calquée sur la pression économique et la vaine tentative de contrôle pour survivre et rester libre intérieurement dans les limites de l&amp;rsquo;individualisme, ou inversement le lavage de cerveau et la violence comme expression d&amp;rsquo;un corps libre se réaccaparant le pouvoir confisqué par le regard.&lt;/p>
 &lt;p>Ce livre nous immerge dans un script où on ne voit pas le narrateur, et on se perd à chercher son image, en déséquilibre au milieu d&amp;rsquo;un kaléïdéoscope, imaginant une peau à partir de bribes d&amp;rsquo;indices dans le regard des autres. Ce jeu propose comme contexte une parodie des relations humaines, avec d&amp;rsquo;un côté des individus qui se moulent dans un modèle générique, de l&amp;rsquo;autre ceux qui en jouent. Perdus, en retard, on est de ceux qui ne peuvent accueillir un héritage, poussés alors à se confectionner une peau quelconque sans fierté, faîte de lambeaux, de suites d&amp;rsquo;actions reproduites, traînant avec soi un échec à baser une identité dessus. Ce handicap sape la force qui permettrait de rester droit face au tumulte et pousse à diriger l&amp;rsquo;action sur la pente de la violence pour répondre à la menace diffuse de disparaître. Cette violence ne fait qu&amp;rsquo;accompagner dans le monde physique un processus qui échappe au contrôle des mortels. Malgré le dégoût que ça peut inspirer, il est apparemment possible de se conforter dans son crime comme dans son fauteuil, quitte à tomber dans la caricature. Un jeune homme récemment entré dans la vie active, emporté par son élan, l&amp;rsquo;esprit encore frais de son héritage familial, adapte son rythme de vie en continu. Dans la solitude du criminel, se souviendra-t-il d&amp;rsquo;un hypothétique abandon d&amp;rsquo;une éducation en accord avec la société pour favoriser sa survie individuelle?&lt;/p>
@@ -257,6 +264,7 @@ J&amp;rsquo;ai ressenti un certain malaise en fermant ce livre. Si la désertion
 &lt;th>Auteur&lt;/th>
 &lt;th>Note&lt;/th>
 &lt;th>Date lue&lt;/th>
+&lt;th>commentaire&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
@@ -265,150 +273,175 @@ J&amp;rsquo;ai ressenti un certain malaise en fermant ce livre. Si la désertion
 &lt;td>Bret Easton Ellis&lt;/td>
 &lt;td>4&lt;/td>
 &lt;td>1998/12/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Le Dahlia noir&lt;/td>
 &lt;td>James Ellroy&lt;/td>
 &lt;td>2&lt;/td>
 &lt;td>1998/08/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>American Psycho&lt;/td>
 &lt;td>Bret Easton Ellis&lt;/td>
 &lt;td>5&lt;/td>
 &lt;td>1998/03/01&lt;/td>
+&lt;td>Le narrateur fait preuve d&amp;rsquo;abnégation et de compréhension de l&amp;rsquo;autre (dans sa naïveté) pour conformer son image aux désirs de la société, une caricature shootée à l&amp;rsquo;acide des années 80. Cette image économise l&amp;rsquo;effort de l&amp;rsquo;autre mais l&amp;rsquo;éloigne par la même occasion de son humanité, pour aller dans le sens d&amp;rsquo;une idée toute personnelle du winner, un tueur froid sans émotion. J&amp;rsquo;ai ressenti un certain malaise en fermant ce livre. Si la désertion laissant place à des images et des automatismes fait naître un besoin de surenchère chez le narrateur pour éprouver le prolongement de l&amp;rsquo;absurdité jusque dans son désir, peut-être y-a-t-il un danger à s&amp;rsquo;éloigner du terrain, et presqu&amp;rsquo;une complicité à l&amp;rsquo;abandonner définitivement.&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Fondation&lt;/td>
 &lt;td>Isaac Asimov&lt;/td>
 &lt;td>3&lt;/td>
 &lt;td>1998/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>L&amp;rsquo;Oreille interne&lt;/td>
 &lt;td>Robert Silverberg&lt;/td>
 &lt;td>3&lt;/td>
 &lt;td>1998/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Miroirs de L Esprit&lt;/td>
 &lt;td>Norman Spinrad&lt;/td>
 &lt;td>3&lt;/td>
 &lt;td>1998/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>La position du tireur couché&lt;/td>
 &lt;td>Jean-Patrick Manchette&lt;/td>
 &lt;td>3&lt;/td>
 &lt;td>1998/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Nada&lt;/td>
 &lt;td>Jean-Patrick Manchette&lt;/td>
 &lt;td>3&lt;/td>
 &lt;td>1998/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>L&amp;rsquo;honneur des rats&lt;/td>
 &lt;td>Francis Ryck&lt;/td>
 &lt;td>3&lt;/td>
 &lt;td>1998/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Héliogabale ou l&amp;rsquo;anarchiste couronné&lt;/td>
 &lt;td>Antonin Artaud&lt;/td>
 &lt;td>0&lt;/td>
 &lt;td>1998/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>L&amp;rsquo;Affaire Charles Dexter Ward&lt;/td>
 &lt;td>H.P. Lovecraft&lt;/td>
 &lt;td>2&lt;/td>
 &lt;td>1998/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Ravage&lt;/td>
 &lt;td>René Barjavel&lt;/td>
 &lt;td>0&lt;/td>
 &lt;td>1998/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Je suis une légende&lt;/td>
 &lt;td>Richard Matheson&lt;/td>
 &lt;td>0&lt;/td>
 &lt;td>1998/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Substance Mort&lt;/td>
 &lt;td>Philip K. Dick&lt;/td>
 &lt;td>2&lt;/td>
 &lt;td>1998/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Bonjour tristesse&lt;/td>
 &lt;td>Françoise Sagan&lt;/td>
 &lt;td>0&lt;/td>
 &lt;td>1998/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Le Lapin Exterminateur&lt;/td>
 &lt;td>Henri-Frédéric Blanc&lt;/td>
 &lt;td>2&lt;/td>
 &lt;td>1998/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>The Inverted World&lt;/td>
 &lt;td>Christopher Priest&lt;/td>
 &lt;td>1&lt;/td>
 &lt;td>1998/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Le Poisson-scorpion&lt;/td>
 &lt;td>Nicolas Bouvier&lt;/td>
 &lt;td>0&lt;/td>
 &lt;td>1998/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Black Velvet&lt;/td>
 &lt;td>Alain Dorémieux&lt;/td>
 &lt;td>5&lt;/td>
 &lt;td>1998/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Sur la route&lt;/td>
 &lt;td>Jack Kerouac&lt;/td>
 &lt;td>1&lt;/td>
 &lt;td>1998/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Sanctuaire&lt;/td>
 &lt;td>William Faulkner&lt;/td>
 &lt;td>0&lt;/td>
 &lt;td>1998/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Un cheval mort dans une baignoire&lt;/td>
 &lt;td>Francis Ryck&lt;/td>
 &lt;td>3&lt;/td>
 &lt;td>1998/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Autobiographie d&amp;rsquo;un tueur professionnel&lt;/td>
 &lt;td>Francis Ryck&lt;/td>
 &lt;td>3&lt;/td>
 &lt;td>1998/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Tropique du Cancer&lt;/td>
 &lt;td>Henry Miller&lt;/td>
 &lt;td>0&lt;/td>
 &lt;td>1998/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Un homme qui dort&lt;/td>
 &lt;td>Georges Perec&lt;/td>
 &lt;td>3&lt;/td>
 &lt;td>1998/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -477,7 +510,7 @@ J&amp;rsquo;ai ressenti un certain malaise en fermant ce livre. Si la désertion
 &lt;tr>
 &lt;td>La nuit des temps&lt;/td>
 &lt;td>René Barjavel&lt;/td>
-&lt;td>0&lt;/td>
+&lt;td>&lt;/td>
 &lt;td>1997/01/01&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -585,4 +618,24 @@ Il y a une vraie beauté à représenter l&amp;rsquo;inconscient dans une couleu
 &lt;p>Pour espérer se confronter à l&amp;rsquo;énergie féminine, il faut d&amp;rsquo;abord prouver sa valeur en passant une épreuve, celle d&amp;rsquo;entrer dans l&amp;rsquo;antre du mâle redouté, où l&amp;rsquo;ingénuité ou l&amp;rsquo;ambition n&amp;rsquo;ont pas leur place, où il faudra déjà être prêt à se battre contre ses propres démons.
 Est ce si difficile quand on a déjà laissé derrière, la vie de celui qui a essayé d&amp;rsquo;approcher par la déduction en tant que détective et qui s&amp;rsquo;est perdu face à des forces qui lui échappent en s&amp;rsquo;aventurant, peut être par orgueil, sur leur domaine?&lt;/p>
 &lt;p>À la fin, ce n&amp;rsquo;est pas forcément le mal qui gagne. Il s&amp;rsquo;est assouvi, mais il a perdu son jouet, sa victime à torturer, et la victime a été libérée de son lien de souffrance avec le monde, sa fin s&amp;rsquo;inscrivant dans quelque chose qu&amp;rsquo;elle peut regarder de loin avec quoi elle peut s&amp;rsquo;accorder, quelque chose de plus grand qu&amp;rsquo;elle et qui ne finit pas avec elle.&lt;/p>
-- https://illim.github.io/blog-example/posts/1996/twin-peaks-fwwm/ -</description></item></channel></rss>
+- https://illim.github.io/blog-example/posts/1996/twin-peaks-fwwm/ -</description></item><item><title>Livres 1992</title><link>https://illim.github.io/blog-example/posts/1992/livres-1992/</link><pubDate>Wed, 01 Jan 1992 00:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/1992/livres-1992/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/1992/livres-1992/ -&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Titre&lt;/th>
+&lt;th>Auteur&lt;/th>
+&lt;th>Note&lt;/th>
+&lt;th>Date lue&lt;/th>
+&lt;th>commentaire&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>X-Men : Le massacre mutant&lt;/td>
+&lt;td>Collectif&lt;/td>
+&lt;td>5&lt;/td>
+&lt;td>1992/01/01&lt;/td>
+&lt;td>C&amp;rsquo;est une de mes bds préférées, parce que les X-Men essaient de défendre des exclus qui errent dans les égouts. J&amp;rsquo;imagine qu&amp;rsquo;aux yeux de ces derniers, ils ne sont pas des héros, mais plutôt des clowns costumés qui improvisent à leur manière. Dans cette histoire, les super pouvoirs au lieu d&amp;rsquo;être la panacée poussent les mutants à questionner leurs limites, obligés de faire des choix et d&amp;rsquo;en assumer les conséquences.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+- https://illim.github.io/blog-example/posts/1992/livres-1992/ -</description></item></channel></rss>

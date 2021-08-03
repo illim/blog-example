@@ -150,6 +150,7 @@
 &lt;th>Auteur&lt;/th>
 &lt;th>Note&lt;/th>
 &lt;th>Date lue&lt;/th>
+&lt;th>commentaire&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
@@ -158,96 +159,112 @@
 &lt;td>Bret Easton Ellis&lt;/td>
 &lt;td>5&lt;/td>
 &lt;td>1999/03/01&lt;/td>
+&lt;td>Le narrateur fait preuve d&amp;rsquo;abnégation et de compréhension de l&amp;rsquo;autre (dans sa naïveté) pour conformer son image aux désirs de la société, une caricature shootée à l&amp;rsquo;acide des années 80. Cette image économise l&amp;rsquo;effort de l&amp;rsquo;autre mais l&amp;rsquo;éloigne par la même occasion de son humanité, pour aller dans le sens d&amp;rsquo;une idée toute personnelle du winner, un tueur froid sans émotion. Un certain malaise plane au moment de refermer ce livre. Si la désertion laissant place à des images et des automatismes fait naître un besoin de surenchère chez le narrateur pour éprouver le prolongement de l&amp;rsquo;absurdité jusque dans son désir, peut-être y-a-t-il un danger à s&amp;rsquo;éloigner du terrain, et presqu&amp;rsquo;une complicité à l&amp;rsquo;abandonner définitivement.&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Zombi Joyce&lt;/td>
 &lt;td>Carol Oates&lt;/td>
 &lt;td>2&lt;/td>
 &lt;td>1999/11/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Babylon Babies&lt;/td>
 &lt;td>Maurice G. Dantec&lt;/td>
 &lt;td>2&lt;/td>
 &lt;td>1999/08/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Les Particules élémentaires&lt;/td>
 &lt;td>Michel Houellebecq&lt;/td>
 &lt;td>3&lt;/td>
 &lt;td>1999/08/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>L&amp;rsquo;Homme-dé&lt;/td>
 &lt;td>Luke Rhinehart&lt;/td>
 &lt;td>3&lt;/td>
 &lt;td>1999/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Les cités de la nuit écarlate&lt;/td>
 &lt;td>William S. Burroughs&lt;/td>
 &lt;td>3&lt;/td>
 &lt;td>1999/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Rendez-vous secret&lt;/td>
 &lt;td>Kōbō Abe&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>1999/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Les neuf princes d&amp;rsquo;Ambre (Le cycle des princes d&amp;rsquo;Ambre, #1)&lt;/td>
 &lt;td>Roger Zelazny&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>1999/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Dr. Adder&lt;/td>
 &lt;td>K.W. Jeter&lt;/td>
 &lt;td>&lt;/td>
 &lt;td>1999/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Les Plus qu&amp;rsquo;humains&lt;/td>
 &lt;td>Theodore Sturgeon&lt;/td>
 &lt;td>3&lt;/td>
 &lt;td>1999/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>La Cité des permutants&lt;/td>
 &lt;td>Greg Egan&lt;/td>
 &lt;td>3&lt;/td>
 &lt;td>1999/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Fatale&lt;/td>
 &lt;td>Jean-Patrick Manchette&lt;/td>
 &lt;td>2&lt;/td>
 &lt;td>1999/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Joueurs&lt;/td>
 &lt;td>Don DeLillo&lt;/td>
 &lt;td>2&lt;/td>
 &lt;td>1999/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Satan S.A.&lt;/td>
 &lt;td>Francis Ryck&lt;/td>
 &lt;td>3&lt;/td>
 &lt;td>1999/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Paradoxia: Journal d&amp;rsquo;une Prédatrice&lt;/td>
 &lt;td>Lydia Lunch&lt;/td>
 &lt;td>3&lt;/td>
 &lt;td>1999/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>Le Maître des illusions&lt;/td>
 &lt;td>Donna Tartt&lt;/td>
 &lt;td>4&lt;/td>
 &lt;td>1999/01/01&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>

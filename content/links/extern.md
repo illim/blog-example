@@ -11,7 +11,7 @@ title: "Liens externes"
 * [Jacen Burrows and the mystery of Providence](http://www.hoodedutilitarian.com/2016/05/jacen-burrows-and-the-mystery-of-providence/)
 
 to-read:
-* la chouette aveugle
+* L'imbécilité est une chose sérieuse Maurizio Ferraris
 * Le Chagrin des vivants	Anna Hope
 * Vies minuscules	Pierre Michon
 * If Tomorrow Comes (Tracy Whitney, #1)	Sidney Sheldon

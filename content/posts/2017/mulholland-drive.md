@@ -23,3 +23,5 @@ L'erreur serait elle de chercher vainement une logique dans un rêve, de se ferm
 ![mulholland-drive](/images/2017/mulholland-drive4.png)
 
 Ce qui importe à Betty est ce que ressent Rita, comment elle peut retrouver son histoire, et non comment les événements rentrent dans la sienne.
+
+Lors de la rencontre avec le clochard, le fait de savoir qu'on le rencontre n'est pas une occasion à rester indifférent parce que l'on sait, mais est d'autant plus marquante que l'on sait.

@@ -23,6 +23,11 @@ L'enthousiasme à essayer même les choses les plus vaines comme aller à un end
 
 Chacun de ces agents a un style légèrement décalé qui laisse imaginer les époques différentes auxquelles leurs manières se sont accordées avec leur esprit, pour finalement se figer lorsque leurs préoccupations ont été entraînées ailleurs.
 
+![twin-peaks](/images/2017/twin-peaks-dougie.jpg)
+
+En résistant aux attentes, aux automatismes, on peut se figer pour entrer en rapport avec l'image, at par là avec le monde. Il y a une hermétique, une résistance au sens, sens qui peut devenir aliénant, et cette hermétique peut être un calcul pour le double malégique, ou une simple innocence naïve qui peut amener à affronter la société en dehors de ses biais.
+
+
 ![twin-peaks](/images/2017/twin-peaks5.jpg)
 
 Le son trop fort du téléphone prend par surprise son esprit endormi par l'habitude, peut être encore trop frais pour aborder une affaire remplie de mystères.

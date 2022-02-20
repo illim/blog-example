@@ -1,4 +1,8 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cinétordu on Cinépillage</title><link>https://illim.github.io/blog-example/</link><description>Recent content in Cinétordu on Cinépillage</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://illim.github.io/blog-example/index.xml" rel="self" type="application/rss+xml"/><item><title>Housekeeping</title><link>https://illim.github.io/blog-example/posts/2016/housekeeping/</link><pubDate>Sun, 03 Jan 2016 16:53:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2016/housekeeping/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2016/housekeeping/ -&lt;p>&lt;p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cinétordu on Cinépillage</title><link>https://illim.github.io/blog-example/</link><description>Recent content in Cinétordu on Cinépillage</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Fri, 18 Feb 2022 17:00:00 +0200</lastBuildDate><atom:link href="https://illim.github.io/blog-example/index.xml" rel="self" type="application/rss+xml"/><item><title>Pavillon</title><link>https://illim.github.io/blog-example/posts/2016/pavillon/</link><pubDate>Sun, 24 Jan 2016 18:13:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2016/pavillon/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2016/pavillon/ -&lt;p>&lt;p>
+&lt;img src="https://illim.github.io/blog-example/blog-example/images/2016/pavillon.jpg" alt="pavillon" />
+&lt;/p>&lt;/p>
+&lt;p>Il y a des superbes effets de lumière dans le film Pavilion.&lt;/p>
+- https://illim.github.io/blog-example/posts/2016/pavillon/ -</description></item><item><title>Housekeeping</title><link>https://illim.github.io/blog-example/posts/2016/housekeeping/</link><pubDate>Sun, 03 Jan 2016 16:53:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2016/housekeeping/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2016/housekeeping/ -&lt;p>&lt;p>
 &lt;img src="https://illim.github.io/blog-example/blog-example/images/2016/housekeeping.jpg" alt="housekeeping" />
 &lt;/p>&lt;/p>
 &lt;p>Ce plan tiré de Housekeeping est magnifique.&lt;/p>
@@ -716,40 +720,4 @@
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-- https://illim.github.io/blog-example/posts/2010/livres-2010/ -</description></item><item><title>Livres 2009</title><link>https://illim.github.io/blog-example/posts/2009/livres-2009/</link><pubDate>Thu, 01 Jan 2009 00:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2009/livres-2009/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2009/livres-2009/ -&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Titre&lt;/th>
-&lt;th>Auteur&lt;/th>
-&lt;th>Note&lt;/th>
-&lt;th>Date lue&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Coders at Work: Reflections on the Craft of Programming&lt;/td>
-&lt;td>Peter Seibel&lt;/td>
-&lt;td>3&lt;/td>
-&lt;td>2009/10/01&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Molloy&lt;/td>
-&lt;td>Samuel Beckett&lt;/td>
-&lt;td>3&lt;/td>
-&lt;td>2009/01/01&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Le Joueur d&amp;rsquo;échecs&lt;/td>
-&lt;td>Stefan Zweig&lt;/td>
-&lt;td>3&lt;/td>
-&lt;td>2009/01/01&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>L&amp;rsquo;Institut Benjamenta&lt;/td>
-&lt;td>Robert Walser&lt;/td>
-&lt;td>3&lt;/td>
-&lt;td>2009/01/01&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-- https://illim.github.io/blog-example/posts/2009/livres-2009/ -</description></item></channel></rss>
+- https://illim.github.io/blog-example/posts/2010/livres-2010/ -</description></item></channel></rss>

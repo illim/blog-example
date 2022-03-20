@@ -1,4 +1,248 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cinétordu on Cinépillage</title><link>https://illim.github.io/blog-example/</link><description>Recent content in Cinétordu on Cinépillage</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Fri, 18 Feb 2022 17:00:00 +0200</lastBuildDate><atom:link href="https://illim.github.io/blog-example/index.xml" rel="self" type="application/rss+xml"/><item><title>Helena remix</title><link>https://illim.github.io/blog-example/posts/2020/helena_remix/</link><pubDate>Tue, 01 Sep 2020 19:30:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2020/helena_remix/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2020/helena_remix/ -
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cinétordu on Cinépillage</title><link>https://illim.github.io/blog-example/</link><description>Recent content in Cinétordu on Cinépillage</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Sun, 20 Mar 2022 19:29:00 +0200</lastBuildDate><atom:link href="https://illim.github.io/blog-example/index.xml" rel="self" type="application/rss+xml"/><item><title>Livres 2021</title><link>https://illim.github.io/blog-example/posts/2021/livres-2021/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2021/livres-2021/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2021/livres-2021/ -&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Titre&lt;/th>
+&lt;th>Auteur&lt;/th>
+&lt;th>Note&lt;/th>
+&lt;th>Date lue&lt;/th>
+&lt;th>commentaire&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Junichiro Tanizaki&lt;/td>
+&lt;td>Un amour insensé&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2021/12/28&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Thomas Ostermeyer&lt;/td>
+&lt;td>Sylvie Chalaye&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2021/12/11&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Sur les ossements des morts&lt;/td>
+&lt;td>Olga Tokarczuk&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2021/12/09&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Madame Bovary&lt;/td>
+&lt;td>Flaubert&lt;/td>
+&lt;td>5&lt;/td>
+&lt;td>2021/11/27&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Terreur&lt;/td>
+&lt;td>Ferdinand Von Schirach&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2021/11/14&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>L&amp;rsquo;école des hommes&lt;/td>
+&lt;td>Stéphane Edouard&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2021/11/07&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Mme Hayat&lt;/td>
+&lt;td>Ahmet Altan&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2021/10/31&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Le dernier comte cathare&lt;/td>
+&lt;td>Florence Ferrari&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2021/10/16&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>L&amp;rsquo;enfant de la neige&lt;/td>
+&lt;td>Henri Gougaud&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2021/09/19&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>L&amp;rsquo;accompagnatrice&lt;/td>
+&lt;td>Nina Berberova&lt;/td>
+&lt;td>2&lt;/td>
+&lt;td>2021/08/25&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Le pari amoureux&lt;/td>
+&lt;td>Miguel Benasayag&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2021/08/22&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Le retour de l&amp;rsquo;exil&lt;/td>
+&lt;td>Miguel Benasayag&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2021/08/09&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>La nature exposée&lt;/td>
+&lt;td>Erri De Luca&lt;/td>
+&lt;td>2&lt;/td>
+&lt;td>2021/07/29&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Histoire d&amp;rsquo;amour&lt;/td>
+&lt;td>Régis Jauffret&lt;/td>
+&lt;td>5&lt;/td>
+&lt;td>2021/07/24&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>The Game&lt;/td>
+&lt;td>Alessandro Baricco&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2021/07/21&lt;/td>
+&lt;td>Intéressant, mais de mon ressenti personnel, si la technologie peut aider à retrouver un semblant de pouvoir, le danger serait d&amp;rsquo;en dépendre au point de troquer sa pulsion de vie pour une étincelle électrique. À mon avis cette lecture est à compléter par d&amp;rsquo;autres points de vue (ie Cerveau augmenté, homme diminué)&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Pères et fils&lt;/td>
+&lt;td>Ivan Turgenev&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2021/07/11&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Cora dans la spirale&lt;/td>
+&lt;td>Vincent Message&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2021/07/03&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Tu m&amp;rsquo;as donné de la crasse et j&amp;rsquo;en ai fait de l&amp;rsquo;or&lt;/td>
+&lt;td>Pacôme Thiellement&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>2021/06/17&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Les Cosaques&lt;/td>
+&lt;td>Leo Tolstoy&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2021/06/13&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>L&amp;rsquo;homme coquillage&lt;/td>
+&lt;td>Aslı Erdoğan&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2021/06/07&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Le tendre narrateur&lt;/td>
+&lt;td>Olga Tokarczuk&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>2021/06/03&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Le Mépris&lt;/td>
+&lt;td>Alberto Moravia&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2021/05/25&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Novecento : pianiste&lt;/td>
+&lt;td>Alessandro Baricco&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2021/05/16&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Un bref instant de splendeur&lt;/td>
+&lt;td>Ocean Vuong&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2021/05/15&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Les Dames de Kimoto&lt;/td>
+&lt;td>Sawako Ariyoshi&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2021/05/04&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>La Pianiste&lt;/td>
+&lt;td>Elfriede Jelinek&lt;/td>
+&lt;td>5&lt;/td>
+&lt;td>2021/04/25&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Chems&lt;/td>
+&lt;td>Johann Zarca&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2021/04/05&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Sur la plage de Chesil&lt;/td>
+&lt;td>Ian McEwan&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2021/04/03&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>La promesse de l&amp;rsquo;aube&lt;/td>
+&lt;td>Romain Gary&lt;/td>
+&lt;td>5&lt;/td>
+&lt;td>2021/03/27&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Éloge des femmes mûres&lt;/td>
+&lt;td>Stephen Vizinczey&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2021/03/09&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Les Aventures d&amp;rsquo;Oliver Twist&lt;/td>
+&lt;td>Charles Dickens&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2021/02/26&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lettre Morte&lt;/td>
+&lt;td>Linda Lê&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>2021/01/11&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Sonietchka&lt;/td>
+&lt;td>Lyudmila Ulitskaya&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2021/01/08&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+- https://illim.github.io/blog-example/posts/2021/livres-2021/ -</description></item><item><title>Helena remix</title><link>https://illim.github.io/blog-example/posts/2020/helena_remix/</link><pubDate>Tue, 01 Sep 2020 19:30:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2020/helena_remix/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2020/helena_remix/ -
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
 &lt;iframe src="https://www.youtube.com/embed/U6QodhI6PGQ" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
 &lt;/div>
@@ -136,8 +380,4 @@
 &lt;p>Ce rôle lié aux difficultés d&amp;rsquo;une personne s&amp;rsquo;inscrit dans celui plus large du citoyen confronté à un problème de société. Il demande d&amp;rsquo;engager son corps dans une logique étrangère et indifférente à son confort personnel, un rythme intriqué dans celui d&amp;rsquo;un autre, qui peut être exclus de la société, mais inclus dans l&amp;rsquo;univers. Par ses gestes simples et parfois maladroits, elle endosse une responsabilité fragile et retisse un filet invisible dans le groupe. Les quelques manifestations de l&amp;rsquo;abject dans le quotidien pourraient être considérées, les yeux grand ouverts, parfois comme annodins, parfois comme expression baroque, parfois comme occasion d&amp;rsquo;évaluer sa réaction sur sa propre balance. Cette présence d&amp;rsquo;esprit vitale pour palier à la défaillance d&amp;rsquo;un corps ou d&amp;rsquo;un esprit s&amp;rsquo;oppose au réflexe de fermer les yeux. Est ce cette attitude clinique qu&amp;rsquo;il faudrait entretenir avec soi même dans le cas où la belle fille et le beau père ne faisaient qu&amp;rsquo;un? Y-a-t-il un risque d&amp;rsquo;être dépossédée de son corps et de ses gestes? Cette question pousse à une constante évaluation de son intégrité, de ses sentiments et de son aversion, pour estimer ce qui est à sa portée, ce qui inviterait une aide extérieure, et ce qui est hors de contrôle et laissé au destin, qu&amp;rsquo;il soit bon ou mauvais. Le danger serait de rentrer dans un jeu de rôle sauveur/victime. L&amp;rsquo;ignorance lui donne l&amp;rsquo;intuition de ne pas trop en faire, de laisser la place à l&amp;rsquo;autre et de juger de ses limites objectivement. Quand Shigezo s&amp;rsquo;enfuit de la maison, Akiko ne lui fait pas la morale, qui n&amp;rsquo;a pas sa place ici. Peut être le réprimande-t-elle, avec un faible espoir d&amp;rsquo;être comprise. L&amp;rsquo;important est d&amp;rsquo;observer, comment la société prend en charge, laisse les gens à la dérive, et qu&amp;rsquo;il y a un fil à tisser pour relier les éléments entre eux, comment l&amp;rsquo;autre parvient à déjouer toute précaution, toute idée de faire rentrer l&amp;rsquo;humain dans l&amp;rsquo;ordre, sans intention malveillante aucune.&lt;/p>
 &lt;p>Il y a une sorte de miroir entre les situations de la belle fille et du grand père. L&amp;rsquo;amnésie de Shigezo renvoit à l&amp;rsquo;ignorance de la belle fille à propos de la prise en charge de la vieillesse dans la société japonaise. Son énergie désordonnée et potentiellement destructrice appelle une prudence qui ne se contenterait pas de se fermer à la vie. Palier aux défaillances de l&amp;rsquo;autre peut aussi être vu comme un acte de reconnaissance des limites de chacun. Cette prudence se traduit en actes dans la vie. Le retrait est un acte pudique face à la vie, mais pas un refus. Sans communication possible, il n&amp;rsquo;y a plus que les actes.&lt;/p>
 &lt;p>La belle fille tatonne pour trouver ses marques et malgré une information lacunaire prend le risque d&amp;rsquo;une position, soulagée du poids de certaines illusions qui l&amp;rsquo;aurait emporté dans le courant. Cette force libérée de ses entraves lui dévoile l&amp;rsquo;aspect baroque de la vie longtemps étouffé. Les convictions, en se consolidant, forment un terreau pour qu&amp;rsquo;une plante, qu&amp;rsquo;elle soit majestueuse ou minuscule, y pousse. Elle se permet ainsi à laisser entrer en elle autant les rayons du jour que l&amp;rsquo;ombre qui chercheraient à s&amp;rsquo;engouffrer et s&amp;rsquo;emmêleraient dans un engrenage pour en sortir vivifiée. Il y a un amour à aider Shigezo, pour le laisser vivre, et il y a une gratitude à le voir réintroduire le souffle de la vie dans la sienne, à lui donner un rôle dans la vie de Shigezo. Est ce un amour égoiste de voir l&amp;rsquo;asocialité de l&amp;rsquo;autre dépendre de sa tolérance? La difficulté est de ne pas devenir un robot serviable insensible qui rejeterait le dégout, mais à garder une foi en un mieux pour un autre indifférent à soi, où l&amp;rsquo;on aurait un rôle peut être mineur mais qu&amp;rsquo;on sent être de notre responsabilité de tenir. Akiko ne rejète pas son mari ni son fils mais s&amp;rsquo;identifie à eux, ce qui donne de la valeur à ses yeux à sa façon de fonctionner, à être capable de faire un choix par rapport à un en dehors de soi, au delà du dégout physique ou de l&amp;rsquo;ambiguité d&amp;rsquo;un rôle. N&amp;rsquo;y a-t-il pas une joie à placer la responsabilité d&amp;rsquo;un proche avant le travail ou la famille, à laisser la rigidité de la structure familiale être perturbée dans ses fondations par un simple vieillard sénile? Une difficulté est de faire coincider la personnalité de Akiko, sa curiosité d&amp;rsquo;intellectuelle, son cheminement, avec une histoire humaine, la disposition intérieure avec un rôle annodin, et trouver un amour, une réconciliation au bout d&amp;rsquo;une histoire, hors de soi, dans un à côté laissé à l&amp;rsquo;abandon sous un angle mort. N&amp;rsquo;a-t-on pas été témoin d&amp;rsquo;un passage de flambeau ?&lt;/p>
-- https://illim.github.io/blog-example/posts/2019/shigezo/ -</description></item><item><title>Les pépites</title><link>https://illim.github.io/blog-example/posts/2019/les-pepites/</link><pubDate>Sun, 22 Sep 2019 12:08:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2019/les-pepites/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2019/les-pepites/ -&lt;p>&lt;p>
-&lt;img src="https://illim.github.io/blog-example/blog-example/images/2019/les-pepites.jpg" alt="les pepites" />
-&lt;/p>&lt;/p>
-&lt;p>Le changement de perspective sème le trouble dans son esprit qui se détache et cherche ses marques pour remplir son nouveau rôle.&lt;/p>
-- https://illim.github.io/blog-example/posts/2019/les-pepites/ -</description></item></channel></rss>
+- https://illim.github.io/blog-example/posts/2019/shigezo/ -</description></item></channel></rss>

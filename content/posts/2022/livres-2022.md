@@ -7,8 +7,13 @@ categories: livre
 
 | Titre      | Auteur | Note | Date lue | commentaire |
 | ----------- | ----------- | ----------- | ----------- |----------- |
-| Le désir: ou l'enfer de l'identique | Byung-Chul Han |  | 2022/05/14 |
-| Comment devenir vivant? | Giuseppe Montesano |  | 2022/05/14 |
+| Lettres du grenier de Wilno | Marina Tsvetaieva | | 2022/07/27 |
+| Je ne répondrais plus de rien | Linda Lê | | 2022/06/24 |
+| Le couloir rouge | Brice Matthieussent | 4 | 2022/06/20 |
+| Penser le corps | Michela Marzano | 4 | 2022/06/12 |
+| Quelques usages de la parole | Gilles Hanus | 4 | 2022/06/03 |
+| Le désir: ou l'enfer de l'identique | Byung-Chul Han | 3 | 2022/05/14 |
+| Comment devenir vivant? | Giuseppe Montesano | 2 | 2022/05/14 |
 | Les cahiers de Voronej | Ossip Mandelstam |  | 2022/05/09 |
 | Le parfum du temps | Byung-Chul Han | 3 | 2022/05/08 |
 | Platonov | Tchekov | 3 | 2022/05/02 |

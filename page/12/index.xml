@@ -1,4 +1,130 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cinétordu on Cinépillage</title><link>https://illim.github.io/blog-example/</link><description>Recent content in Cinétordu on Cinépillage</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Sun, 15 May 2022 23:00:00 +0200</lastBuildDate><atom:link href="https://illim.github.io/blog-example/index.xml" rel="self" type="application/rss+xml"/><item><title>Twin peaks, fire walks with me</title><link>https://illim.github.io/blog-example/posts/1996/twin-peaks-fwwm/</link><pubDate>Thu, 01 Aug 1996 18:30:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/1996/twin-peaks-fwwm/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/1996/twin-peaks-fwwm/ -&lt;p>&lt;p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cinétordu on Cinépillage</title><link>https://illim.github.io/blog-example/</link><description>Recent content in Cinétordu on Cinépillage</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://illim.github.io/blog-example/index.xml" rel="self" type="application/rss+xml"/><item><title>Livres 1997</title><link>https://illim.github.io/blog-example/posts/1997/livres-1997/</link><pubDate>Wed, 01 Jan 1997 00:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/1997/livres-1997/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/1997/livres-1997/ -&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Titre&lt;/th>
+&lt;th>Auteur&lt;/th>
+&lt;th>Note&lt;/th>
+&lt;th>Date lue&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Les Années fléaux&lt;/td>
+&lt;td>Norman Spinrad&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>1997/10/01&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>SIVA (La Trilogie divine #1)&lt;/td>
+&lt;td>Philip K. Dick&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>1997/10/01&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Stephen Le Héros&lt;/td>
+&lt;td>James Joyce&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>1997/09/01&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Dune I&lt;/td>
+&lt;td>Frank Herbert&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>1997/06/01&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>L&amp;rsquo;Échiquier du mal&lt;/td>
+&lt;td>Dan Simmons&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>1997/05/01&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Les Yeux d&amp;rsquo;Heisenberg&lt;/td>
+&lt;td>Frank Herbert&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>1997/04/01&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Le Samouraï virtuel&lt;/td>
+&lt;td>Neal Stephenson&lt;/td>
+&lt;td>1&lt;/td>
+&lt;td>1997/01/01&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Rendez-vous avec Rama (Rama, #1)&lt;/td>
+&lt;td>Arthur C . Clarke&lt;/td>
+&lt;td>2&lt;/td>
+&lt;td>1997/01/01&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>La nuit des temps&lt;/td>
+&lt;td>René Barjavel&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>1997/01/01&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>La Flèche du temps&lt;/td>
+&lt;td>Martin Amis&lt;/td>
+&lt;td>2&lt;/td>
+&lt;td>1997/01/01&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>L&amp;rsquo;Invasion divine (VALIS Trilogy, #2)&lt;/td>
+&lt;td>Philip K . Dick&lt;/td>
+&lt;td>2&lt;/td>
+&lt;td>1997/01/01&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>La Transmigration de Timothy Archer (VALIS Trilogy, #3)&lt;/td>
+&lt;td>Philip K . Dick&lt;/td>
+&lt;td>2&lt;/td>
+&lt;td>1997/01/01&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Abattoir 5&lt;/td>
+&lt;td>Kurt Vonnegut Jr.&lt;/td>
+&lt;td>2&lt;/td>
+&lt;td>1997/01/01&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Le Procès&lt;/td>
+&lt;td>Franz Kafka&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>1997/01/01&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Mars&lt;/td>
+&lt;td>Fritz Zorn&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>1997/01/01&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>La sirène rouge&lt;/td>
+&lt;td>Maurice G . Dantec&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>1997/01/01&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Les Racines du mal&lt;/td>
+&lt;td>Maurice G . Dantec&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>1997/01/01&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Les feux&lt;/td>
+&lt;td>Shōhei Ōoka&lt;/td>
+&lt;td>2&lt;/td>
+&lt;td>1997/01/01&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lune sanglante&lt;/td>
+&lt;td>James Ellroy&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>1997/01/01&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+- https://illim.github.io/blog-example/posts/1997/livres-1997/ -</description></item><item><title>Twin peaks, fire walks with me</title><link>https://illim.github.io/blog-example/posts/1996/twin-peaks-fwwm/</link><pubDate>Thu, 01 Aug 1996 18:30:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/1996/twin-peaks-fwwm/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/1996/twin-peaks-fwwm/ -&lt;p>&lt;p>
 &lt;img src="https://illim.github.io/blog-example/blog-example/images/1996/twin-peaks-4-girls.jpg" alt="twin-peaks" />
 &lt;/p>&lt;/p>
 &lt;p>Tout le plaisir de s&amp;rsquo;identifier à une personne d&amp;rsquo;un monde connu, à l&amp;rsquo;abri des mystères, une simple étudiante, une ville paisible ensoleillée. Une musique qui rappelle le potentiel d&amp;rsquo;un coeur qui vibre à l&amp;rsquo;écoute des émotions, celles du ventre et de la tête, le féminin vibrant avec le masculin, une inquiétude qui brûle dans l&amp;rsquo;amour, qui brûle d&amp;rsquo;autant plus que le féminin et le masculin prennent le risque de se confronter, que le masculin n&amp;rsquo;est pas indifférent mais différent, qu&amp;rsquo;il doit savoir laisser place, laisser le feu s&amp;rsquo;embraser. Sur un autre thème, la mélodie part de l&amp;rsquo;inquiétude, l&amp;rsquo;enrobe, joue avec elle, se libère de la peur, y revient et la quitte de nouveau, choisissant de lui apporter une prestance pour mieux l&amp;rsquo;accepter.&lt;/p>

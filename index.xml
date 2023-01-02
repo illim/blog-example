@@ -1,4 +1,22 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cinétordu on Cinépillage</title><link>https://illim.github.io/blog-example/</link><description>Recent content in Cinétordu on Cinépillage</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Thu, 29 Dec 2022 00:00:00 +0200</lastBuildDate><atom:link href="https://illim.github.io/blog-example/index.xml" rel="self" type="application/rss+xml"/><item><title>Compartiment 6</title><link>https://illim.github.io/blog-example/posts/2022/compartiment6/</link><pubDate>Thu, 29 Dec 2022 00:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2022/compartiment6/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2022/compartiment6/ -&lt;p>&lt;p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cinétordu on Cinépillage</title><link>https://illim.github.io/blog-example/</link><description>Recent content in Cinétordu on Cinépillage</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0200</lastBuildDate><atom:link href="https://illim.github.io/blog-example/index.xml" rel="self" type="application/rss+xml"/><item><title>Livres 2023</title><link>https://illim.github.io/blog-example/posts/2023/livres-2023/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2023/livres-2023/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2023/livres-2023/ -&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Titre&lt;/th>
+&lt;th>Auteur&lt;/th>
+&lt;th>Note&lt;/th>
+&lt;th>Date lue&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>La ville noire&lt;/td>
+&lt;td>George Sand&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2023/01/02&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+- https://illim.github.io/blog-example/posts/2023/livres-2023/ -</description></item><item><title>Compartiment 6</title><link>https://illim.github.io/blog-example/posts/2022/compartiment6/</link><pubDate>Thu, 29 Dec 2022 00:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2022/compartiment6/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2022/compartiment6/ -&lt;p>&lt;p>
 &lt;img src="https://illim.github.io/blog-example/blog-example/images/2022/compartiment6.jpg" alt="compartiment6" />
 &lt;/p>&lt;/p>
 - https://illim.github.io/blog-example/posts/2022/compartiment6/ -</description></item><item><title>Melancholia</title><link>https://illim.github.io/blog-example/posts/2022/melancholia/</link><pubDate>Sun, 15 May 2022 23:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2022/melancholia/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2022/melancholia/ -&lt;p>&lt;p>
@@ -220,8 +238,4 @@ L&amp;rsquo;erreur serait de complexifier, surcharger son jeu et s&amp;rsquo;emp
 &lt;img src="https://illim.github.io/blog-example/blog-example/images/2021/el-amiche.jpg" alt="femmes-entre-elles" />
 &lt;/p>&lt;/p>
 &lt;p>D&amp;rsquo;un point de vue extérieur à la scène, elle entraperçoit la légimité d&amp;rsquo;un rôle à jouer sur les planches du théâtre des passions.&lt;/p>
-- https://illim.github.io/blog-example/posts/2021/femmes-entre-elles/ -</description></item><item><title>La pianiste</title><link>https://illim.github.io/blog-example/posts/2021/la-pianiste/</link><pubDate>Sat, 24 Apr 2021 12:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2021/la-pianiste/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2021/la-pianiste/ -&lt;p>&lt;p>
-&lt;img src="https://illim.github.io/blog-example/blog-example/images/2021/la-pianiste.jpg" alt="la-pianiste" />
-&lt;/p>&lt;/p>
-&lt;p>Le quotidien du personnage principal est cadenassé. Seule une marge d&amp;rsquo;erreur dans l&amp;rsquo;agenda ou un mensonge pudique laisserait une chance à la liberté de s&amp;rsquo;immiscer. Sans prise directe sur le monde, la raison se contente de griffoner à travers la poésie des enjeux annecdotiques pour le commun des mortels.&lt;/p>
-- https://illim.github.io/blog-example/posts/2021/la-pianiste/ -</description></item></channel></rss>
+- https://illim.github.io/blog-example/posts/2021/femmes-entre-elles/ -</description></item></channel></rss>

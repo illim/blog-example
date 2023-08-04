@@ -10,9 +10,15 @@
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
+&lt;td>Fils de femme&lt;/td>
+&lt;td>Hélène Couturier&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2023/08/05&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td>Tu seras un homme&lt;/td>
 &lt;td>Martin Steffens&lt;/td>
-&lt;td>4&lt;/td>
+&lt;td>3&lt;/td>
 &lt;td>2023/07/11&lt;/td>
 &lt;/tr>
 &lt;tr>
@@ -24,7 +30,7 @@
 &lt;tr>
 &lt;td>La bête dans la jungle&lt;/td>
 &lt;td>Henry James&lt;/td>
-&lt;td>4&lt;/td>
+&lt;td>3&lt;/td>
 &lt;td>2023/07/02&lt;/td>
 &lt;/tr>
 &lt;tr>

@@ -3,6 +3,7 @@ title: "Liens externes"
 ---
 
 * [Playlist ost (à vos radio cassettes!)](https://www.youtube.com/playlist?list=PLnYdsPeYlfcgc0jwZL_9BqLxZKMlWr2aE)
+* [Playlist divers](https://www.youtube.com/playlist?list=PLnYdsPeYlfciDFdIMKnZx3eU5G0uQpr4_)
 * [Nova fait son cinéma Bernard Herrmann](https://www.dailymotion.com/video/x3gpkr9)
 * [Détermination du concept de sublime dans l'œuvre de David Lynch](https://www.cairn.info/revue-francaise-d-etudes-americaines-2004-1-page-72.htm#)
 * [Je ne suis pas un salaud, entretien avec le réalisateur](http://www.francetvinfo.fr/culture/je-ne-suis-pas-un-salaud_1706967.html)
@@ -11,6 +12,7 @@ title: "Liens externes"
 * [Jacen Burrows and the mystery of Providence](http://www.hoodedutilitarian.com/2016/05/jacen-burrows-and-the-mystery-of-providence/)
 
 to-read:
+* Bombay Marie Saglio
 * Vision aveugle peter watts
 * La foret francaise Daniel Perron
 * L'imbécilité est une chose sérieuse Maurizio Ferraris

@@ -2,8 +2,10 @@
 title: "Hotel Iris"
 date: 2022-03-20T19:29:00+02:00
 draft: false
+featured_image: "/images/2022/hoteliris.jpg"
 categories: livre
 ---
+![hoteliris](/images/2022/hoteliris.jpg)
 
 Dans Hôtel Iris, des endroits isolés peuvent faire office de porte vers un autre monde, un accès à une histoire isolée du cours de la vie extérieure, menant vers un espace intérieur possible.
 

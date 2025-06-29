@@ -2,7 +2,7 @@
 title: "Neonomicon"
 date: 2016-06-01T00:00:00+02:00
 draft: false
-categories: livre
+categories: bd
 featured_image: "/images/2016/neonomicon.jpg"
 ---
 ![Neonomicon](/images/2016/neonomicon.jpg)

@@ -1,4 +1,178 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cinétordu on Cinépillage</title><link>https://illim.github.io/blog-example/</link><description>Recent content in Cinétordu on Cinépillage</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Thu, 01 Jan 2026 22:00:00 +0200</lastBuildDate><atom:link href="https://illim.github.io/blog-example/index.xml" rel="self" type="application/rss+xml"/><item><title>Compartiment 6</title><link>https://illim.github.io/blog-example/posts/2022/compartiment6/</link><pubDate>Thu, 29 Dec 2022 00:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2022/compartiment6/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2022/compartiment6/ -&lt;p>&lt;p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cinétordu on Cinépillage</title><link>https://illim.github.io/blog-example/</link><description>Recent content in Cinétordu on Cinépillage</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0200</lastBuildDate><atom:link href="https://illim.github.io/blog-example/index.xml" rel="self" type="application/rss+xml"/><item><title>Livres 2023</title><link>https://illim.github.io/blog-example/posts/2023/livres-2023/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2023/livres-2023/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2023/livres-2023/ -&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Titre&lt;/th>
+&lt;th>Auteur&lt;/th>
+&lt;th>Note&lt;/th>
+&lt;th>Date lue&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>S&amp;rsquo;émanciper des mémoires du corps&lt;/td>
+&lt;td>Philippe Sieca&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2023/12/31&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Respirer&lt;/td>
+&lt;td>James Nestor&lt;/td>
+&lt;td>5&lt;/td>
+&lt;td>2023/12/26&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Ecopsychologie&lt;/td>
+&lt;td>Théodore Roszak, &amp;hellip;&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2023/11/18&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Mouvementements&lt;/td>
+&lt;td>Emma Bigé&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2023/11/09&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>L&amp;rsquo;acteur invisible&lt;/td>
+&lt;td>Yoshi Oida&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2023/11/01&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Lettre aux ingénieurs qui doutent&lt;/td>
+&lt;td>Olivier Lefebvre&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2023/10/28&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Devenir fluide&lt;/td>
+&lt;td>Loïc Santiago&lt;/td>
+&lt;td>5&lt;/td>
+&lt;td>2023/10/22&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>De l&amp;rsquo;aïkido au systema&lt;/td>
+&lt;td>Chris Peytier&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2023/10/13&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>L&amp;rsquo;incroyable pouvoir de l&amp;rsquo;amour&lt;/td>
+&lt;td>Stéphanie brillant&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2023/10/07&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>L&amp;rsquo;incroyable pouvoir du souffle&lt;/td>
+&lt;td>Stéphanie brillant&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2023/09/24&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Entre les marges&lt;/td>
+&lt;td>Elena Ferrante&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2023/08/23&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Fils de femme&lt;/td>
+&lt;td>Hélène Couturier&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2023/08/05&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Tu seras un homme&lt;/td>
+&lt;td>Martin Steffens&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2023/07/11&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Le retour&lt;/td>
+&lt;td>Laurent Fendt&lt;/td>
+&lt;td>5&lt;/td>
+&lt;td>2023/07/08&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>La bête dans la jungle&lt;/td>
+&lt;td>Henry James&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2023/07/02&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Le mineur&lt;/td>
+&lt;td>Natsume Soseki&lt;/td>
+&lt;td>5&lt;/td>
+&lt;td>2023/06/06&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Heaven&lt;/td>
+&lt;td>Mieko Kawakami&lt;/td>
+&lt;td>5&lt;/td>
+&lt;td>2023/05/06&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Seins et oeufs&lt;/td>
+&lt;td>Mieko Kawakami&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2023/03/24&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Dans les forêts de Sibérie&lt;/td>
+&lt;td>Sylvain Tesson&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2023/03/15&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>J&amp;rsquo;adore&lt;/td>
+&lt;td>Mieko Kawakami&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2023/02/06&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>L&amp;rsquo;acteur et la cible&lt;/td>
+&lt;td>Declan Donnellan&lt;/td>
+&lt;td>5&lt;/td>
+&lt;td>2023/01/31&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Pourquoi nous aimons les femmes&lt;/td>
+&lt;td>Mircea Cartarescu&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2023/01/23&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Coupé des autres, coupé de soi&lt;/td>
+&lt;td>Gwenaelle Persiaux&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2023/01/23&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Abandons&lt;/td>
+&lt;td>Hiromi Kawakami&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2023/01/17&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Vita Sexualis&lt;/td>
+&lt;td>Mori Ogai&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2023/01/14&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>L&amp;rsquo;école de Palo Alto&lt;/td>
+&lt;td>Marc, Picard&lt;/td>
+&lt;td>5&lt;/td>
+&lt;td>2023/01/10&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>La ville noire&lt;/td>
+&lt;td>George Sand&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2023/01/02&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+- https://illim.github.io/blog-example/posts/2023/livres-2023/ -</description></item><item><title>Compartiment 6</title><link>https://illim.github.io/blog-example/posts/2022/compartiment6/</link><pubDate>Thu, 29 Dec 2022 00:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2022/compartiment6/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2022/compartiment6/ -&lt;p>&lt;p>
 &lt;img src="https://illim.github.io/blog-example/blog-example/images/2022/compart6.jpg" alt="compartiment6" />
 &lt;/p>&lt;/p>
 &lt;p>La conscience de ce qui l&amp;rsquo;entoure se mêle à un inconfort et un retrait intérieur qu&amp;rsquo;on devine dans les hésitations.&lt;/p>
@@ -225,8 +399,4 @@ L&amp;rsquo;erreur serait de complexifier, surcharger son jeu et s&amp;rsquo;emp
 &lt;img src="https://illim.github.io/blog-example/blog-example/images/2021/el-amiche.jpg" alt="femmes-entre-elles" />
 &lt;/p>&lt;/p>
 &lt;p>D&amp;rsquo;un point de vue extérieur à la scène, elle entraperçoit la légimité d&amp;rsquo;un rôle à jouer sur les planches du théâtre des passions.&lt;/p>
-- https://illim.github.io/blog-example/posts/2021/femmes-entre-elles/ -</description></item><item><title>La pianiste</title><link>https://illim.github.io/blog-example/posts/2021/la-pianiste/</link><pubDate>Sat, 24 Apr 2021 12:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2021/la-pianiste/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2021/la-pianiste/ -&lt;p>&lt;p>
-&lt;img src="https://illim.github.io/blog-example/blog-example/images/2021/la-pianiste.jpg" alt="la-pianiste" />
-&lt;/p>&lt;/p>
-&lt;p>Le quotidien du personnage principal est cadenassé. Seule une marge d&amp;rsquo;erreur dans l&amp;rsquo;agenda ou un mensonge pudique laisserait une chance à la liberté de s&amp;rsquo;immiscer. Sans prise directe sur le monde, la raison se contente de griffoner à travers la poésie des enjeux annecdotiques pour le commun des mortels.&lt;/p>
-- https://illim.github.io/blog-example/posts/2021/la-pianiste/ -</description></item></channel></rss>
+- https://illim.github.io/blog-example/posts/2021/femmes-entre-elles/ -</description></item></channel></rss>

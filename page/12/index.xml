@@ -1,4 +1,28 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cinétordu on Cinépillage</title><link>https://illim.github.io/blog-example/</link><description>Recent content in Cinétordu on Cinépillage</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Thu, 01 Jan 2026 22:00:00 +0200</lastBuildDate><atom:link href="https://illim.github.io/blog-example/index.xml" rel="self" type="application/rss+xml"/><item><title>Livres 2001</title><link>https://illim.github.io/blog-example/posts/2001/livres-2001/</link><pubDate>Mon, 01 Jan 2001 00:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2001/livres-2001/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2001/livres-2001/ -&lt;table>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cinétordu on Cinépillage</title><link>https://illim.github.io/blog-example/</link><description>Recent content in Cinétordu on Cinépillage</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0200</lastBuildDate><atom:link href="https://illim.github.io/blog-example/index.xml" rel="self" type="application/rss+xml"/><item><title>Livres 2002</title><link>https://illim.github.io/blog-example/posts/2002/livres-2002/</link><pubDate>Tue, 01 Jan 2002 00:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2002/livres-2002/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2002/livres-2002/ -&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Titre&lt;/th>
+&lt;th>Auteur&lt;/th>
+&lt;th>Note&lt;/th>
+&lt;th>Date lue&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Stairways To Hell&lt;/td>
+&lt;td>Thomas Day&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2002/12/01&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Maniac&lt;/td>
+&lt;td>Eric Bénier-Bürckel&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2002/09/01&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+- https://illim.github.io/blog-example/posts/2002/livres-2002/ -</description></item><item><title>Livres 2001</title><link>https://illim.github.io/blog-example/posts/2001/livres-2001/</link><pubDate>Mon, 01 Jan 2001 00:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2001/livres-2001/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2001/livres-2001/ -&lt;table>
 &lt;thead>
 &lt;tr>
 &lt;th>Titre&lt;/th>
@@ -528,8 +552,4 @@ Dans Diamond Sea, la répétition rappelait le temps, les nuages, la persistance
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-- https://illim.github.io/blog-example/posts/1998/livres-1998/ -</description></item><item><title>Dirty</title><link>https://illim.github.io/blog-example/posts/1997/dirty/</link><pubDate>Wed, 01 Jan 1997 19:30:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/1997/dirty/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/1997/dirty/ -&lt;p>&lt;p>
-&lt;img src="https://illim.github.io/blog-example/blog-example/images/1997/dirty.jpg" alt="dirty" />
-&lt;/p>&lt;/p>
-&lt;p>Dans Dirty, le calme va de concert avec la tempête. Il n&amp;rsquo;appelle pas à s&amp;rsquo;endormir mais à s&amp;rsquo;apaiser ou s&amp;rsquo;extasier.&lt;/p>
-- https://illim.github.io/blog-example/posts/1997/dirty/ -</description></item></channel></rss>
+- https://illim.github.io/blog-example/posts/1998/livres-1998/ -</description></item></channel></rss>

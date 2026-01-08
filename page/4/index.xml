@@ -1,4 +1,106 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cinétordu on Cinépillage</title><link>https://illim.github.io/blog-example/</link><description>Recent content in Cinétordu on Cinépillage</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Thu, 01 Jan 2026 22:00:00 +0200</lastBuildDate><atom:link href="https://illim.github.io/blog-example/index.xml" rel="self" type="application/rss+xml"/><item><title>Dirty God</title><link>https://illim.github.io/blog-example/posts/2019/dirty-god/</link><pubDate>Sat, 28 Dec 2019 13:16:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2019/dirty-god/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2019/dirty-god/ -&lt;p>&lt;p>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cinétordu on Cinépillage</title><link>https://illim.github.io/blog-example/</link><description>Recent content in Cinétordu on Cinépillage</description><generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 07 Jan 2026 00:00:00 +0200</lastBuildDate><atom:link href="https://illim.github.io/blog-example/index.xml" rel="self" type="application/rss+xml"/><item><title>Livres 2020</title><link>https://illim.github.io/blog-example/posts/2020/livres-2020/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2020/livres-2020/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2020/livres-2020/ -&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Titre&lt;/th>
+&lt;th>Auteur&lt;/th>
+&lt;th>Note&lt;/th>
+&lt;th>Date lue&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Cinq mains coupées&lt;/td>
+&lt;td>Sophie Divry&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2020/12/28&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Mémoires d&amp;rsquo;une geisha&lt;/td>
+&lt;td>Yuki Inoue&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2020/12/25&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Un jour ce sera vide&lt;/td>
+&lt;td>Hugo Lindenberg&lt;/td>
+&lt;td>5&lt;/td>
+&lt;td>2020/11/22&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Les Réfugiés&lt;/td>
+&lt;td>Viet Thanh Nguyen&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2020/10/24&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Vivre dans la rue à Paris au XVIIIe siècle&lt;/td>
+&lt;td>Arlette Farge&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2020/09/30&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Manuel Pratique de Méditation: Les techniques de base&lt;/td>
+&lt;td>Selim Aissel&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2020/08/24&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Français malgré eux : racialistes, décolonialistes, indigénistes : enquête sur ceux qui veulent déconstruire la France&lt;/td>
+&lt;td>Sami Biasoni&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2020/08/01&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Enfance Au Feminin&lt;/td>
+&lt;td>Taslima Nasrin&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2020/07/19&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Le coffret des abîmes&lt;/td>
+&lt;td>Francis Stevens&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2020/05/31&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Au-delà des illusions&lt;/td>
+&lt;td>Dương Thu Hương&lt;/td>
+&lt;td>5&lt;/td>
+&lt;td>2020/05/10&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Ma Terre Empoisonnee&lt;/td>
+&lt;td>Tran To Nga&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2020/04/13&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Aux Frontières De La Démocratie. De Calais à Londres Sur Les Traces Des Migrants&lt;/td>
+&lt;td>Sophie Djigo&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>2020/03/21&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Une Voix Différente: Pour Une Éthique Du Care&lt;/td>
+&lt;td>Carol Gilligan&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2020/02/01&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Eduquer ses enfants comme un renard&lt;/td>
+&lt;td>Jean-Baptiste de Panafieu&lt;/td>
+&lt;td>2&lt;/td>
+&lt;td>2020/01/05&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Pourquoi le patriarcat ?&lt;/td>
+&lt;td>Carol Gilligan&lt;/td>
+&lt;td>3&lt;/td>
+&lt;td>2020/02/12&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+- https://illim.github.io/blog-example/posts/2020/livres-2020/ -</description></item><item><title>Dirty God</title><link>https://illim.github.io/blog-example/posts/2019/dirty-god/</link><pubDate>Sat, 28 Dec 2019 13:16:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2019/dirty-god/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2019/dirty-god/ -&lt;p>&lt;p>
 &lt;img src="https://illim.github.io/blog-example/blog-example/images/2019/dirty-god.jpg" alt="dirty god" />
 &lt;/p>&lt;/p>
 &lt;p>Demeurer un moment à une distance supportable de l&amp;rsquo;autre offre à son regard plein d&amp;rsquo;amertume le spectacle d&amp;rsquo;une vie qui se délite.&lt;/p>
@@ -265,8 +367,4 @@
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-- https://illim.github.io/blog-example/posts/2019/livres-2019/ -</description></item><item><title>Hell Bent</title><link>https://illim.github.io/blog-example/posts/2018/hell-bent/</link><pubDate>Mon, 05 Nov 2018 08:18:00 +0200</pubDate><guid>https://illim.github.io/blog-example/posts/2018/hell-bent/</guid><description>Cinépillage https://illim.github.io/blog-example/posts/2018/hell-bent/ -&lt;p>&lt;p>
-&lt;img src="https://illim.github.io/blog-example/blog-example/images/2018/hell-bent.jpg" alt="hell-bent" />
-&lt;/p>&lt;/p>
-&lt;p>Rentrer bredouille.&lt;/p>
-- https://illim.github.io/blog-example/posts/2018/hell-bent/ -</description></item></channel></rss>
+- https://illim.github.io/blog-example/posts/2019/livres-2019/ -</description></item></channel></rss>
